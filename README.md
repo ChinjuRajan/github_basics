@@ -2,7 +2,7 @@
 This repository is for github basic tutorials
 
 ## How to add header
-### To add new h3 header: use hash sign 3 times
+#### To add new h3 header: use hash sign 3 times
 #### To add new h4 header: use hash sign 4 times
 
 ## How to add lists
